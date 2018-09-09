@@ -1,0 +1,118 @@
+body {
+	background-color: blue;
+	height: 100%;
+	background-image: url(pitc/pozadina.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#jumbotron{
+	width: 400px;
+	height: 400px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	background-image: url(pitc/pozadina.jpg);
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+}
+#Forest {
+	width: 400px;
+	height: 400px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	background-image: url(pitc/forest.jpg);
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+}
+
+#Wave {
+	width: 400px;
+	height: 400px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	background-image: url(pitc/waves.jpg);
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+}
+
+#Rain {
+	width: 400px;
+	height: 400px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	background-image: url(pitc/rain2.jpg);
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+}
+
+#Wind {
+	width: 400px;
+	height: 400px;
+	top: 50%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%, -50%);
+	box-sizing: border-box;
+	display: flex;
+	align-items: center;
+	background-image: url(pitc/wind.jpg);
+	background-repeat: no-repeat;
+	background-size: 400px 400px;
+}
+#ForestBody {
+	background-color: blue;
+	height: 100%;
+	background-image: url(pitc/forest.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.choiceOfSong{
+	align-items: center;
+
+}
+
+.choiceOfSong {
+  margin-left: 20px;
+
+}
+}
+
+.paragraf i {
+	height: 100px;
+	margin-left: 30px;
+
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 10px 16px;
+  font-size: 34px;
+  line-height: 1.33;
+  border-radius: 35px;
+}
+
+.fas.fa-swimming-pool i {
+  position: center;
+}
+
